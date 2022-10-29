@@ -6,7 +6,7 @@ This project consist of QUIZAPP where user can answer simple static questions an
 
 ## LIVE-LINK
 
-https://birthday-reminder-abhi.netlify.app/
+https://quiz-web-app-js.netlify.app/
 
 ## DEMO(Snapshot)
 ![image](https://user-images.githubusercontent.com/48747218/198833263-66a32bac-b48b-42cb-907e-614b5987ca8c.png)
